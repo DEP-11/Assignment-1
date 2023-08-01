@@ -8,7 +8,7 @@ public class Demo6TaskB {
 
         final String BLUE = "\033[34;1m";
         final String RE = "\033[0m";
-        final String LINE ="\033[38;5;166m";
+        final String LINE ="\033[38;5;172m";
         final String NUM ="\033[38;5;216m";
 
 
