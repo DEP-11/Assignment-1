@@ -1,4 +1,4 @@
-public class Demo6_Task_a{
+public class Demo6TaskA{
     public static void main(String[] args) {
         String value ="0%";
         final String Rec = "\033[0m";
